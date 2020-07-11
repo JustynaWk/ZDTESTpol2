@@ -3,3 +3,5 @@ aktualizuję plik do nowej wersji
 testest
 nowy commit
 nowy commit 
+
+czyzby zadzialalo wreszcie?
